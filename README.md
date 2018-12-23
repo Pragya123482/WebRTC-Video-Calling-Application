@@ -58,7 +58,7 @@ The interesting stuff can be found in the .js files.
 
 In order to get started follow these steps: 
 
-1. Try open http://localhost/Video%20Call/samples/VIDEOsample/index.html in two wen-browser tabs. (Chrome or Firefox). 
+1. Try open http://localhost/Video%20Call/samples/VIDEOsample/index.html in two web-browser tabs. (Chrome or Firefox). 
    Open the developer console. 
 2. In the browser window you should see a web form where you can either create 
    a new user or login as a user. 
